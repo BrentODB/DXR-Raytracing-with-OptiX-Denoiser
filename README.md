@@ -1,4 +1,4 @@
-# DXR-Raytracing-with-OptiX-Denoiser
+# DXR Raytracing with OptiX 6.0 Denoiser
 Project made with DirectX Raytracing to try and understand the API and ray tracing in general.
 
 The project uses 1 sample per pixel to handle soft shadows and GI.
