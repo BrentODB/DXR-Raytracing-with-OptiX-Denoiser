@@ -12,7 +12,7 @@ A release build running the Sponza Scene can be downloaded [here](https://www.dr
 -  NVIDIA Turing or Volta GPU (or newer)
 -  Tested on Visual Studio 2017 v15.9.6 (or newer)
 -  [Dependencies](https://www.dropbox.com/s/8wi8zmqokgzgeo3/DependenciesRtDemo.rar?dl=0)
--  CUDA version 10.1 installed and added to environment variables (or newer)
+-  CUDA version 10.1 installed **and added to environment variables** (or newer)
 
 ![Rungholt Scene](http://brentopdebeeck.com/images/RTRunholt.png)
 ![Sponza Scene](http://brentopdebeeck.com/images/RTSponza.png)
