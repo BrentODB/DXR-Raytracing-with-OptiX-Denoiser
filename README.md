@@ -6,6 +6,8 @@ The noisy output is denoised by the neural network denoiser in Optix 6.0.
 
 A release build running the Sponza Scene can be downloaded [here](https://www.dropbox.com/s/twcvux9zhrxpl28/ReleaseBuildV1.rar?dl=0)
 
+Filling in this small [survey](https://forms.gle/NqLb54JFDSsttWTv9) (5-10min) would help me out a lot.
+
 **Prerequisites to compile/run**
 -  Windows 10 October 2018 update version 1809 (or newer)
 -  Windows 10 SDK version 10.0.17763.0 (or newer)
