@@ -11,7 +11,7 @@ Filling in this small [survey](https://forms.gle/NqLb54JFDSsttWTv9) (5-10min) wo
 **Prerequisites to compile/run**
 -  Windows 10 October 2018 update version 1809 (or newer)
 -  Windows 10 SDK version 10.0.17763.0 (or newer)
--  NVIDIA Turing or Volta GPU (or newer)
+-  NVIDIA Turing or Volta GPU (or newer) (Pascal is also supported, but not advised)
 -  Tested on Visual Studio 2017 v15.9.6 (or newer)
 -  [Dependencies](https://www.dropbox.com/s/8wi8zmqokgzgeo3/DependenciesRtDemo.rar?dl=0) (Release build already has everything setup except CUDA)
 -  CUDA version 10.1 installed **and added to environment variables** (or newer)
